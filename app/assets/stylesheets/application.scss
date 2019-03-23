@@ -42,6 +42,8 @@
     31 Responsive  
 -------------------------------------------------------------*/
 
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
+
 
 @font-face {
 font-family: 'Ionicons';
@@ -1617,6 +1619,7 @@ a.underline:after {
     width: 100%;
     z-index: 999;
     padding: 20px 0px;
+    max-height: 80px;
 
 }
 
